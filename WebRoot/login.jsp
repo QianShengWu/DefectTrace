@@ -50,7 +50,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 				<td width="40%"></td>
 				<td width="10%"><input type="submit" value="登录"/></td>
 				<td><input type="button" value="重置" onclick="resetValue()"/></td>
-				<td width="30%"></td>
+				<td width="10%"><a href="register.jsp">注册</a></td>
 			</tr>
 			<tr height="10">
 				<td width="40%"></td>
